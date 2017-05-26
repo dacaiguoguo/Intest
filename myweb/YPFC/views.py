@@ -1,3 +1,6 @@
+#!usr/bin/env python
+# -*- coding: utf-8 -*-
+
 from django.shortcuts import render
 from YPFC.models import *
 from django.http import HttpResponse, HttpResponseRedirect

@@ -1,5 +1,6 @@
-#!/usr/bin/env python
-# -*- coding:utf8 -*-
+#!usr/bin/env python
+# -*- coding: utf-8 -*-
+
 import django
 import os, sys, io, json, pycurl, time, datetime, multiprocessing
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'myweb.settings')

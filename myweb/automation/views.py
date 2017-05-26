@@ -1,3 +1,6 @@
+#!usr/bin/env python
+# -*- coding: utf-8 -*-
+
 from django.shortcuts import render,render_to_response
 from automation.models import *
 from django.http import HttpResponse, HttpResponseRedirect, JsonResponse
